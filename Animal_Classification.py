@@ -1,3 +1,5 @@
+import streamlit as st
+
 import kagglehub
 
 # Download latest version
@@ -240,4 +242,5 @@ print(classification_report(y_true, y_pred, target_names=class_labels))
 # --------------------------------------------------------------------------------------------------
 # Save the final model
 model.save("multi_class_animal_classification_mobilenetv2_finetuned.keras")
+
 print("Model saved to multi_class_animal_classification_mobilenetv2_finetuned.keras")
