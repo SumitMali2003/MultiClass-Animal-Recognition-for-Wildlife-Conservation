@@ -31,7 +31,7 @@
 
 1️⃣ Clone the Repository
 
-- git clone https://github.com/SumitMali2003/Mini-Project-Sem-6.git
+- https://github.com/SumitMali2003/MultiClass-Animal-Recognition-for-Wildlife-Conservation
 
 2️⃣ Install Dependencies
 
