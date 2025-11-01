@@ -38,22 +38,3 @@
 pip install -r requirements.txt
 - **REDUCED** it from installing the full GPU version, which is heavy and unnecessary for cloud deployment.
 
-3️⃣ Run the App
-
----
-
-streamlit run project.py
-
-🚀 Deploying on Streamlit Cloud
-
-	1.	Push your project to GitHub
-	2.	Go to Streamlit Cloud
-	3.	Deploy the app using your repository
-	4.	Done! 🎉
- 
----
-
-
-💡 **Acknowledgments**
-
-🔗 👉 [Click here to access the live Streamlit App](https://wccnnrms.streamlit.app)
